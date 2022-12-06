@@ -1,5 +1,6 @@
 # SplatLab
-3D First Person Shooting game with custom ray-casting engine developed in MatLab. Inherits mechanics from Nintendo Splatoon
+3D First Person Shooting game with custom ray-casting engine developed in MatLab. Inherits mechanics from Nintendo Splatoon  
+Developed as Software Design Project for Engineering 1181 at The Ohio State University
 
 ## Controls
 * W/A/S/D - movement
